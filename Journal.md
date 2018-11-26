@@ -10,3 +10,6 @@
   * Six: 122 minutes (8 hours of study)
   * *Estimate of total time*: 53 hours + Review of 8 hours = About 60 hours
   * Assuming I can study 5 hours per week this will take 12 weeks
+
+  ### Flight Club
+  * [Flight club at Airlake Airport](https://www.airlakeaero.com/)
