@@ -13,3 +13,6 @@
 
   ### Flight Club
   * [Flight club at Airlake Airport](https://www.airlakeaero.com/)
+
+  ### Air Trek Materials
+  * [Air Trek North Materials](https://www.airtreknorth.com/private-pilot-docs.html)
