@@ -1,5 +1,6 @@
 * 11/28/18
-  * Purchased Sporty's flight training.
+  * 2 hr
+  * Cockpit instruments, Airplane Engines, fuel, props, and electrical
 
 * 11/26/18
   * 2 hrs

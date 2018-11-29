@@ -50,3 +50,5 @@
 * Other instruments
   * Vacuum guage - shows that the vacuum pumps are working, which make the attitude indicator and heading indicator work.
   * Voltmeter/Clock/Air Temperature
+
+* [Example](https://www.aerocockpit.com/files/files/produkty/9322_web.jpg)

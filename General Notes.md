@@ -16,3 +16,6 @@
 
   ### Air Trek Materials
   * [Air Trek North Materials](https://www.airtreknorth.com/private-pilot-docs.html)
+
+  ### Words
+  * Annunciator = warning light
