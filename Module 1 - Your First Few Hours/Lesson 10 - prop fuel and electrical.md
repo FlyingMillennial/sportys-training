@@ -24,7 +24,7 @@
     * 28 volt, 60 amp alternator
     * Master is two switches, alternator and battery
     * Avionics (communications, navigation) has a seperate master
-    * Low amps means something is wrong
+    * Negative amps means something is wrong
 
 * Carburated Engine
     * Mixture rich to start
