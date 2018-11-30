@@ -1,23 +1,20 @@
 ## Engine Start
 
-* Starters
+* Pre-Start
     * Make sure there's nothing aft that will get damaged by the air blast
     * Parking break set, ready to use foot breaks
     * Adjust seats and put on seatbelt
 
-* Fuel, breakers, avionics
+* Prep Airplane
     * Fuel tank selector set to both
     * Fuel shutoff set to on position
-    * Circuit breakers in
-    * Avionics master off
-
-* Beacon and engine primed
-    * Look outside
+    * Circuit breakers in & Avionics master off
     * Throttle open 1/4 inch
     * Mixture in idle/lean position
-    * Turn on beacon
-    * Turn on master
+    * Turn on beacon & master
     * Open window and yell 'clear'
+
+* Prime engine
     * Fuel pump on
     * Push in mixture control until flow is 3-5 g/hour
     * Pull mixture back out

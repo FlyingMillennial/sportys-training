@@ -19,3 +19,5 @@
 
   ### Words
   * Annunciator = warning light
+  * AWOS = Automated Weather Observing System 
+  * ASOS = Automated Surface Observing System
