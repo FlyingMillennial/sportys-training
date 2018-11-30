@@ -1,2 +1,24 @@
-### Links
-* [Demo Lesons](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
+## Flight Training Log
+
+* Running Total Ground: 8 hrs
+* Running Total Flight: 0 hrs
+
+[Ground School](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
+
+### Study & Flight Time
+
+* 11/29/18
+  * 2 hr study
+  * Preflight, engine start, communication
+
+* 11/28/18
+  * 2 hr study
+  * Cockpit, Airplane Engines, fuel, props, and electrical
+
+* 11/26/18
+  * 2 hr study
+  * Uncontrolled airport patterns and radio communication
+
+* 11/25/18
+  * 2 hr study
+  * When you should fly, intro to airplanes
