@@ -1,6 +1,7 @@
 ## Four Fundamentals
 
 ### Turns
+* Use ailerons to bank, then use rudder pressure to make the plane turn as it begins to bank
 * Shallow = < 20 degrees (need to hold the bank)
 * Medium = between 20 and 45 degrees (should hold iteself)
 * Steep = > 45 degrees (need to hold against further banking)
@@ -27,3 +28,11 @@
 * Glide ratio is about 9:1
 * More control pressure is needed in a glide
 * Lead level flight by 50 to 100 feet
+* Clear engine every 30 seconds (1500 rpm)
+
+* `Normal Glide` is done at idle power
+* Decrease airspeed until you get to your optimal glide speed, while increasing elevator pressure to maintain altitude.
+* Once you get to you desired speed, trim to the descending pitch you want.
+* Constant airspeed at idle power indicates proper pitch;
+    * decreasing airspeed requires lower pitch
+    * increasing airspeed requires higher pitch

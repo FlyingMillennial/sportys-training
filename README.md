@@ -7,6 +7,10 @@
 
 ### Study & Flight Time
 
+* 12/1/18
+  * 1 hr study
+  * Review four fundamentals
+
 * 11/30/18
   * 2 hr study
   * Taxi, takeoff, and four fundamentals

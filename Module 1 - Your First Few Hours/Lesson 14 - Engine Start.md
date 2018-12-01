@@ -16,8 +16,8 @@
 
 * Prime engine
     * Fuel pump on
-    * Push in mixture control until flow is 3-5 g/hour
-    * Pull mixture back out
+    * Mixture rich until flow is 3-5 g/hour
+    * Mixture lean
     * Fuel pump off
 
 * Turn it on
