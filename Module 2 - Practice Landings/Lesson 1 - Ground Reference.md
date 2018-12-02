@@ -1,4 +1,4 @@
-## Ground Reference
+## Ground References
 
 * Course = path you want to follow
 * Heading = Where you're pointed
