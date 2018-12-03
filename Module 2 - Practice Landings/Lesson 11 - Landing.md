@@ -10,7 +10,7 @@
         * This slows you to about 75 kts
         * This will start a descent of about 500 ft/m
     * When the end of the runway is 45 degrees behind you, start your turn base
-    * On the base leg you can fine tune your altitude
+    * On the base leg you can fine tune your altitude by adjusting where you turn
         * Too high: extend your base leg and make a more steeper turn to final
         * Too low: shorten your base leg and make a shallow turn to final
     * Once on final, flaps are down, and you trim for 65 kts in a skyhawk
