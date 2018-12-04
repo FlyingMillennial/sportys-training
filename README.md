@@ -1,6 +1,6 @@
 ## Flight Training Log
 
-* Running Total Ground: 19 hrs
+* Running Total Ground: 20 hrs
 * Running Total Flight: 0 hrs
 
 [Ground School](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
@@ -10,6 +10,10 @@
 * 12/4/18 (Scheduled)
   * 1 hr flight
   * Flight Lession #1
+
+* 12/3/18
+  * 2 hr study
+  * Airspace, documents, and charts
 
 * 12/2/18
   * 3 hr study
