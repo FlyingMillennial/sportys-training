@@ -7,9 +7,13 @@
 
 ### Study & Flight Time
 
-* 12/4/18 (Scheduled)
+* 12/7/18 (Scheduled)
   * 1 hr flight
   * Flight Lession #1
+
+* 12/5/18
+  * 1 hr study
+  * Weather reports and forecasts
 
 * 12/3/18
   * 2 hr study
