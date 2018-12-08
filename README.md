@@ -3,13 +3,18 @@
 * Running Total Ground: 20 hrs
 * Running Total Flight: 0 hrs
 
-[Ground School](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
+[Ground School Link](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
 
 ### Study & Flight Time
 
-* 12/7/18 (Scheduled)
+* 12/8/18
+  * 
+
+* 12/7/18
   * 1 hr flight
-  * Flight Lession #1
+    * Flew pattern, touch & go's slow flight, stalls
+  * 1 hr study
+    * Drag, Pitot Static System
 
 * 12/5/18
   * 1 hr study

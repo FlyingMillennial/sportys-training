@@ -20,6 +20,9 @@
   ### Sectional Chart
   [Great sectional chart](https://skyvector.com/)
 
+  ### Airspeed
+  [Great article on airspeed](https://studentpilotnews.com/2013/07/08/mind-thy-airspeed/)
+
   ### Words
   * Annunciator = warning light
   * AWOS = Automated Weather Observing System 
