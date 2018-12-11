@@ -1,12 +1,16 @@
 ## Flight Training Log
 
-* Running Total Ground: 22 hrs
+* Running Total Ground: 24 hrs
 * Running Total Flight: 2.3 hrs
 
 [Ground School Link](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
 
 ### Study & Flight Time
-*12/9/18
+* 12/10/18
+  * 2 hrs
+  * VOR, Night Flying
+
+* 12/9/18
   * 1.3 hr flight
   * Steep turns, stalls, pattern work
 
