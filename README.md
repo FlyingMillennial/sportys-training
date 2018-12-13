@@ -6,6 +6,10 @@
 [Ground School Link](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
 
 ### Study & Flight Time
+* 12/12/18
+  * 2 hrs
+  * ATC, CC Planning, Magnetic Compass
+
 * 12/10/18
   * 2 hrs
   * VOR, Night Flying

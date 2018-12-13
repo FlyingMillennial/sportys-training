@@ -5,11 +5,11 @@
     * White/White/Green = Military Airport
 
 * Taxi lights are blue
-* Runway threshold is green/red
+* Runway threshold is green
 * Runway end identifiers are white pulses
 * Runway edge lights are white
 
-* Nav lights must be on from sunset to sunrise while taxiing or flying
+* Nav lights (white, red, green) must be on from sunset to sunrise while taxiing or flying
 
 * Night = end of civil twighlight
 
