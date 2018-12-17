@@ -1,14 +1,22 @@
 ## Flight Training Log
 
-* Running Total Ground: 24 hrs
-* Running Total Flight: 2.3 hrs
+* Running Total Ground: 26 hrs
+* Running Total Flight: 4.7 hrs
 
 [Ground School Link](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
 
 ### Study & Flight Time
+12/16/18
+  * 1.1 hr flight
+  * Piper Archer, Slow Flight, Power off stall, touch and gos in a 15kt dead crosswind!
+
+12/15/18
+  * 1.3 hr flight
+  * Piper Warrior, Slow Flight, S Turns, Turns around a point, steep turns
+
 12/14/18
-  * 1 hr
-  * Weight & Balance, Max Performance, ADS-B, FARs
+  * 2 hrs
+  * Weight & Balance, Max Performance, ADS-B, FARs, rules
 
 * 12/12/18
   * 2 hrs
