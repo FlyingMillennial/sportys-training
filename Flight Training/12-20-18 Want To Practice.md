@@ -1,4 +1,4 @@
-## Want to practice 12/20/18
+## Want to practice 12/22/18
 
 * Forward slips
     * Right rudder turns the nose off of the track across the ground
@@ -10,3 +10,9 @@
 * Descending turns
     * Often you want to pass over an airfield and then descend to pattern altitude and merge with the downwind.
     * Practice: On a north heading at 3500 feet, descend to 3000 feet while turning the long way round to a west heading.
+
+
+## Questions
+
+* Minnesota sectional... is there a way to get around purchasing four charts?
+* How do I get a copy of the POH for the archer?

@@ -11,5 +11,14 @@ At this point I have finished ground school and need to:
 * Prepare for my oral exam
 * Prepare for my check ride
 
+Stuff I need:
+
+* E6B calculator (ordered)
+* Plotter (ordered)
+* Piper Archer OHB
+* Copy of AIM (ordered)
+* Sectional
+* Knee board (iphone + paper)
+
 
 Reference material: https://www.airtreknorth.com/private-pilot-docs.html

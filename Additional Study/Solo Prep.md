@@ -18,13 +18,13 @@
     * Vno: 125kts - maximum normal operating speed
     * Vne:  154kts - maximum airspeed (never exceeed)
 
-2. Max gross weight: 2550
+2. Max gross weight: 2558
 
 3. Max takeoff weight: 2550
 
-4. Fuel Capacity: 50; Usable: 48
+4. Fuel Capacity: 50; Usable: 48, Grade: 100ll, blue
 
-5. Oil: Min: 6qts Max: 8qts Grade: ??? (Confirm)
+5. Oil: Min: 6qts Max: 8qts Grade: 30w50 (Confirm)
 
 6. Compute Center of Gravity
     * Limit @ 2550lbs is 88.6-93.0; @2050&below is 82.0-93.0 
@@ -40,7 +40,7 @@
 
     * **Landing Weight:** 1590 + 205 + 263 = 1998
     * **Landing Moment:** 139125 + 16502.5 + 19285 = 174912.5
-    * **Landing CG:** 174912.5 / 1998 = 87.53
+    * **Landing CG:** 174912.5 / 1998 = 87.53 (Good!)
 
 7. What is the takeoff ground roll and the distance over a 50-ft. obstacle for your airplane at your airport with full fuel, a temperature of 29° C, 5-kt. headwind, and an altimeter setting of 29.64?
     * Altitude: 889
@@ -88,3 +88,70 @@
 14. Explain the procedures you would use to land at your airport if the communication radio(s) failed. 
     * Watch closely for other aircraft and wait for the pattern to be clear.  Enter pattern and wobble to indicate radio is dead.
 
+15. ATC Lights
+    * Steady Green: Cleared to Land / Cleared to Proceed
+    * Flashing green: Cleared to approach / nothing
+    * Steady red: Give way to others / stop
+    * Flashing red: Do not land / clear runway or taxiway
+    * Flashing white: NA / return to starting point
+    * Alternationg green and red: Exercise extreme caution
+
+16. What airplane certificates and documents must be on board your airplane prior to every
+flight? - AROW: Airworthiness Certificate, Registrion, Operating Handbook, Weight and Balance Info
+
+17. What personal documents and endorsements must you have before beginning a solo flight? 
+    * 3rd class medical
+    * Driver's License/Photo ID
+    * Solo endorsement
+    * Student pilot certificate
+
+18. Who is directly responsible and is the final authority as to the operation of your airplane
+when you are flying solo? - Me as the Pilot in Command
+
+19. You may not fly as a pilot within ______ hours after the consumption of an alcoholic beverage or with _________% by weight or more alcohol in the blood. 
+    * 8 and .04
+
+20. Explain the regulatory preflight action requirements
+    * Weather reports, forecasts, fuel requirements, alternative routes/landings, potential delays, runway lengths at intended airports, takeoff and landing distance required calculated, 
+
+21. Explain your use of safety belts and shoulder harnesses while flying solo 
+    * Put them on before starting the engine and keep them on until after stopping the engine
+
+22. When aircraft are approaching each other head-on, or nearly so, what action should be
+taken? - Both give way to the right.
+
+23. Except for takeoff or landing, at what minimum safe altitudes should you operate your
+airplane? - Congested: 1000ft AGL, Other: 500ft AGL, Anywhere: high enough to make a safe landing
+
+24. Explain the altimeter setting procedures. - listen to ASOS for barometer in and turn the knob to the provided value (standard at sea level is 29.92) and make sure the altimeter reads within 50ft of your actual altitude at the airport.
+
+25. When practicing steep turns, slow flight, power-on stalls, and power-off stalls, you should select an altitude that allows the maneuver to be completed no lower than __________. 
+    * 1500ft AGL
+
+26. Explain the go-around procedures in your airplane. When would you use the go-around procedures?
+    * Increase power to maximum, turn off carb heat, and smoothly pull the nose up. Pull in flaps when a steady climb at 75kts has been established and re-enter the pattern.
+    * Any time a landing is unsafe: Coming in too shallow, steep, short, long, high low.  Feeling like the landing is forced.  Another plane/vehicle/person is on the runway.  Something doesn't feel right.
+
+27. The best glide airspeed for your airplane (at maximum gross weight) is ________. and What airplane configuration is specified to obtain the maximum glide?
+    * 76kts
+    * Full flaps
+
+28. Explain the actions you would take if the airplane engine failed in the following situations: 
+    * Right after liftoff: Land back on the runway and attempt to get the airplane clear of the runway.
+    * During the takeoff climb at an altitude of 100 ft. AGL: Do not try to turn around; perform an emergency landing as safely as possible.
+    * En route: Set up for optimal glide, go through engine failure checklist, pick a safe field with furrows aligned with the wind, perform an emergency landing.
+
+29. Explain the recommended use of flaps for takeoff in your airplane. 
+    * No flaps for takeoff.
+
+30. For a student pilot, what are the minimum visibility requirements? 
+    * 3sm
+
+31. For a student pilot, what are the restrictions to flight above clouds? 
+    * must be 1000 feet above clouds
+
+32. For a student pilot, what are the limitations of carrying passengers? 
+    * Can't carry passengers
+
+33. What are the day-VFR fuel requirements? 
+    * 30 minutes of fuel beyond planned route.
