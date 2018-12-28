@@ -2,7 +2,6 @@
 
 * 129/hr for the aircraft
 * 70/hr for the CFI
-* 150/m for flight club 
 * **200/hr Total w/Instructor @10hrs/m**
 * **$6000 for required 30hrs w/Instructor**
 * **$1200 for required 10hrs solo**

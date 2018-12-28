@@ -1,17 +1,26 @@
 ## Flight Training Log
 
-* Running Total Ground: 36.5 hrs
+* Running Total Ground: 37.5 hrs
 * Running Total Flight: 
   * Instruction: 6.2/20 hrs
   * Solo: 0/10 hrs
   * Total: 6.2/40hrs
   * Night Takeoffs and Landings: 0/10
   * Night Cross Country: 0/1
+  * Towered field takeoffs and landings: 0/3
   * Daytime cross country, 3pts, 150nm: 0/1 
 
 [Ground School Link](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
 
 ### Study & Flight Time
+12/27/18
+  * 1hr study
+  * Cross country prep
+
+12/26/18
+  * 2 hr study
+  * Practice test (kings) 81%
+
 12/25/18
   * 2.5 hr study
   * E6B know-how, practice test (86%)
