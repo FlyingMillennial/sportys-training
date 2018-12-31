@@ -3,18 +3,21 @@
 * Running Total Ground: 37.5 hrs
 * Running Total Flight: 
   * Instruction: 7.3/20 hrs
+    * Night Takeoffs and Landings: 0/10
+    * Night Cross Country: 0/1
+    * Check Ride Prep: 0/3hrs
   * Solo: 0/10 hrs
-  * Total: 7.3/40hrs
-  * Night Takeoffs and Landings: 0/10
-  * Night Cross Country: 0/1
-  * Towered field takeoffs and landings: 0/3
-  * Daytime cross country, 3pts, 150nm: 0/1 
+    * Solo Towered field takeoffs and landings: 0/3
+    * Solo Daytime cross country, 3pts, 150nm: 0/1
+    * Solo Cross Country Hours: 0/5hrs
+  * **Total**: 7.3/40hrs
+
 
 [Ground School Link](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
 
 ### Study & Flight Time
 12/30/18
-  * 1.1 hr flight
+  * 1.1 hr flight (block total 17.4)
   * Rounding out, short field takeoff, more slipping
 
 12/27/18
@@ -30,7 +33,7 @@
   * E6B know-how, practice test (86%)
 
 12/24/18
-  * 1.5 hr flight training
+  * 1.5 hr flight training (block total 18.5)
   * Emergency landings, forward slips, steep turns, touch and gos
 
 12/23/18
