@@ -9,14 +9,15 @@
 
 ## Schedule
 Done
-* 12/7: 1 hrs
-* 12/9: 1.3 hrs (2.3)
-* 12/15: 1.3 hrs (3.6)
+* 12/7:   1 hrs
+* 12/9:   1.3 hrs (2.3)
+* 12/15:  1.3 hrs (3.6)
 * 12/16:  1.1 hrs (4.7)
 * 12/24:  1.5 hrs (6.2)
 * 12/30:  1.1 hrs (7.3)
+* 1/1:    1.6 hrs (8.9)
 
-Projection
+Projection (not up to date)
 * Jan Wk 1:  2.5 hrs (9.8) - solo
 * Jan Wk 2:  1.5 hrs (11.3) - night takeoffs/landings
 * Jan Wk 3:  1.5 hrs (12.8) - dual cross country

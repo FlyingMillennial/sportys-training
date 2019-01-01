@@ -2,20 +2,25 @@
 
 * Running Total Ground: 37.5 hrs
 * Running Total Flight: 
-  * Instruction: 7.3/20 hrs
+  * Instruction: 8.2/20 hrs
     * Night Takeoffs and Landings: 0/10
     * Night Cross Country: 0/1
     * Check Ride Prep: 0/3hrs
-  * Solo: 0/10 hrs
+  * Solo: 0.7/10 hrs
     * Solo Towered field takeoffs and landings: 0/3
     * Solo Daytime cross country, 3pts, 150nm: 0/1
     * Solo Cross Country Hours: 0/5hrs
-  * **Total**: 7.3/40hrs
+  * **Total**: 8.9/40hrs
 
 
 [Ground School Link](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
 
 ### Study & Flight Time
+1/1/19
+  * 0.9 hour dual flight
+  * 0.7 hour solo flight
+  * FIRST SOLO!
+
 12/30/18
   * 1.1 hr flight (block total 17.4)
   * Rounding out, short field takeoff, more slipping
