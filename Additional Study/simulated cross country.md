@@ -49,6 +49,3 @@
     * Left pattern on both.
     * Airfield altitude 895ft
     * Pattern altitude 1900ft
-
-
-

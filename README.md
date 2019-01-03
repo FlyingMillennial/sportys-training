@@ -16,6 +16,10 @@
 [Ground School Link](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
 
 ### Study & Flight Time
+1/2/18
+  * 2 hrs study
+  * Cross country procedures, flight planning and filing tools
+
 1/1/19
   * 0.9 hour dual flight
   * 0.7 hour solo flight

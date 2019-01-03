@@ -18,12 +18,12 @@ Done
 * 1/1:    1.6 hrs (8.9)
 
 Projection (not up to date)
-* Jan Wk 1:  2.5 hrs (9.8) - solo
+* Jan Wk 1:  2.5 hrs (9.8) - dual cross country
 * Jan Wk 2:  1.5 hrs (11.3) - night takeoffs/landings
-* Jan Wk 3:  1.5 hrs (12.8) - dual cross country
-* Jan Wk 4:  2.5 hrs (15.3) - night cross country
-* Jan Wk 5:  4.0 hrs (19.3) - practice
-* Feb Wk 1:  4.0 hrs (23.3) - solo cross country
+* Jan Wk 3:  1.5 hrs (12.8) - night cross country
+* Jan Wk 4:  2.5 hrs (15.3) - solo cross country
+* Jan Wk 5:  4.0 hrs (19.3) - solo cross country
+* Feb Wk 1:  4.0 hrs (23.3)
 * Feb Wk 2:  4.0 hrs (27.3)
 * Feb Wk 3:  4.0 hrs (31.3)
 * Feb Wk 4:  4.0 hrs (35.3)
