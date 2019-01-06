@@ -2,7 +2,7 @@
 
 * Running Total Ground: 37.5 hrs
 * Running Total Flight: 
-  * Instruction: 8.2/20 hrs
+  * Instruction: 11.4/20 hrs
     * Night Takeoffs and Landings: 0/10
     * Night Cross Country: 0/1
     * Check Ride Prep: 0/3hrs
@@ -10,13 +10,21 @@
     * Solo Towered field takeoffs and landings: 0/3
     * Solo Daytime cross country, 3pts, 150nm: 0/1
     * Solo Cross Country Hours: 0/5hrs
-  * **Total**: 8.9/40hrs
+  * **Total**: 12.1/40hrs
 
 
 [Ground School Link](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
 
 ### Study & Flight Time
-1/2/18
+1/6/19
+* 1.1 hr flight training
+* Towered airport approach/landing/takeoff at KSTP
+
+1/5/19
+  * 2.1 hr flight
+  * Cross country to Menomonie
+
+1/2/19
   * 2 hrs study
   * Cross country procedures, flight planning and filing tools
 
