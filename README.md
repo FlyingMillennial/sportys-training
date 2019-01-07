@@ -19,6 +19,7 @@
 1/6/19
 * 1.1 hr flight training
 * Towered airport approach/landing/takeoff at KSTP
+* 1.5 hr study - liveatc listening and note taking
 
 1/5/19
   * 2.1 hr flight
