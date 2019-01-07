@@ -1,6 +1,6 @@
 ## Flight Training Log
 
-* Running Total Ground: 37.5 hrs
+* Running Total Ground: 39.0 hrs
 * Running Total Flight: 
   * Instruction: 11.4/20 hrs
     * Night Takeoffs and Landings: 0/10

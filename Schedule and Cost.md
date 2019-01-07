@@ -2,10 +2,11 @@
 
 * 129/hr for the aircraft
 * 70/hr for the CFI
-* **200/hr Total w/Instructor @10hrs/m**
-* **$6000 for required 30hrs w/Instructor**
-* **$1200 for required 10hrs solo**
-* **$7200 for license**
+* 200/hr Total w/Instructor
+* **$4000 for required 20hrs w/Instructor**
+* **$2600 for 20hrs solo**
+* **$1000 for incidentals**
+* **$7600 for license**
 
 ## Schedule
 Done
@@ -16,18 +17,18 @@ Done
 * 12/24:  1.5 hrs (6.2)
 * 12/30:  1.1 hrs (7.3)
 * 1/1:    1.6 hrs (8.9)
+* 1/5:    2.1 hrs (11.0)
+* 1/6:    1.1 hrs (12.1)
 
 Projection (not up to date)
-* Jan Wk 1:  2.5 hrs (9.8) - dual cross country
-* Jan Wk 2:  1.5 hrs (11.3) - night takeoffs/landings
-* Jan Wk 3:  1.5 hrs (12.8) - night cross country
-* Jan Wk 4:  2.5 hrs (15.3) - solo cross country
-* Jan Wk 5:  4.0 hrs (19.3) - solo cross country
-* Feb Wk 1:  4.0 hrs (23.3)
-* Feb Wk 2:  4.0 hrs (27.3)
-* Feb Wk 3:  4.0 hrs (31.3)
-* Feb Wk 4:  4.0 hrs (35.3)
-* Mar Wk 1:  4.0 hrs (39.3)
-* Mar Wk 2:  4.0 hrs (43.3)
+* Jan Wk 2:  4 hrs (16.3) - night takeoffs/landings/cross country
+* Jan Wk 3:  4 hrs (20.3) - solo time and hood
+* Jan Wk 4:  4 hrs (24.3) - solo cross country and hood
+* Jan Wk 5:  4 hrs (28.3) - solo cross country and practice
+* Feb Wk 1:  4 hrs (32.3) - solo cross country and practice
+* Feb Wk 2:  4 hrs (36.3) - check ride prep
+* Feb Wk 3:  4 hrs (40.3) - check ride prep
+* Feb Wk 4:  4 hrs (44.3) - finish up loose hours
+* Mar Wk 1:  4 hrs (48.3) - Check ride
 
 * **Total of 40 hrs**
