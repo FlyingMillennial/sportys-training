@@ -21,14 +21,12 @@ Done
 * 1/6:    1.1 hrs (12.1)
 
 Projection (not up to date)
-* Jan Wk 2:  4 hrs (16.3) - night takeoffs/landings/cross country
-* Jan Wk 3:  4 hrs (20.3) - solo time and hood
-* Jan Wk 4:  4 hrs (24.3) - solo cross country and hood
-* Jan Wk 5:  4 hrs (28.3) - solo cross country and practice
-* Feb Wk 1:  4 hrs (32.3) - solo cross country and practice
-* Feb Wk 2:  4 hrs (36.3) - check ride prep
-* Feb Wk 3:  4 hrs (40.3) - check ride prep
-* Feb Wk 4:  4 hrs (44.3) - finish up loose hours
-* Mar Wk 1:  4 hrs (48.3) - Check ride
-
-* **Total of 40 hrs**
+* Jan Wk 2:  2 hrs (14.1) - night takeoffs/landings/cross country
+* Jan Wk 3:  4 hrs (18.1) - solo time and hood
+* Jan Wk 4:  4 hrs (22.1) - solo cross country and hood
+* Jan Wk 5:  4 hrs (26.1) - solo cross country and practice
+* Feb Wk 1:  4 hrs (30.1) - solo cross country and practice
+* Feb Wk 2:  4 hrs (34.1) - check ride prep
+* Feb Wk 3:  4 hrs (38.1) - check ride prep
+* Feb Wk 4:  4 hrs (42.1) - finish up loose hours
+* Mar Wk 1:  4 hrs (46.1) - Check ride

@@ -3,12 +3,15 @@
 * Running Total Ground: 39.0 hrs
 * Running Total Flight: 
   * Instruction: 11.4/20 hrs
-    * Night Takeoffs and Landings: 0/10
-    * Night Cross Country: 0/1
+    * Night Dual Takeoffs and Landings: 0/10
+    * Night Dual Cross Country > 100nm: 0/1
+    * Night Training: 0/3hrs
     * Check Ride Prep: 0/3hrs
+    * Hood Time: 0/3hrs
+    * Cross Country Training: 2.1/3hrs
   * Solo: 0.7/10 hrs
     * Solo Towered field takeoffs and landings: 0/3
-    * Solo Daytime cross country, 3pts, 150nm: 0/1
+    * Solo Daytime cross country, 3pts, 150nm, one leg > 50nm: 0/1
     * Solo Cross Country Hours: 0/5hrs
   * **Total**: 12.1/40hrs
 
