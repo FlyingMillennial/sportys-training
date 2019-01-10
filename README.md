@@ -2,23 +2,28 @@
 
 * Running Total Ground: 39.0 hrs
 * Running Total Flight: 
-  * Instruction: 11.4/20 hrs
-    * Night Dual Takeoffs and Landings: 0/10
-    * Night Dual Cross Country > 100nm: 0/1
-    * Night Training: 0/3hrs
+  * Instruction: 13.9/20 hrs
+    * Night Dual Takeoffs and Landings: 10/10
+    * Night Dual Cross Country > 100nm: 1/1
+    * Night Training: 2.5/3hrs
     * Check Ride Prep: 0/3hrs
     * Hood Time: 0/3hrs
-    * Cross Country Training: 2.1/3hrs
+    * Cross Country Training: 3.6/3hrs
   * Solo: 0.7/10 hrs
     * Solo Towered field takeoffs and landings: 0/3
     * Solo Daytime cross country, 3pts, 150nm, one leg > 50nm: 0/1
     * Solo Cross Country Hours: 0/5hrs
-  * **Total**: 12.1/40hrs
+  * **Total**: 14.6/40hrs
 
 
 [Ground School Link](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
 
 ### Study & Flight Time
+1/9/19
+* 2.5 hr flight training (2.5 night, 1.5 cross country)
+* 10 night takeoffs and landings
+* 100nm cross country at night
+
 1/6/19
 * 1.1 hr flight training
 * Towered airport approach/landing/takeoff at KSTP
