@@ -22,11 +22,8 @@
 
 Projection
 
-* Jan Wk 3:  4 hrs (18.6) - solo time and hood time
-* Jan Wk 4:  4 hrs (22.6) - solo cross country and hood time
-* Jan Wk 5:  4 hrs (26.6) - solo cross country and practice
-* Feb Wk 1:  4 hrs (30.6) - solo cross country and practice
-* Feb Wk 2:  4 hrs (34.6) - check ride prep
-* Feb Wk 3:  4 hrs (38.6) - check ride prep
-* Feb Wk 4:  4 hrs (42.6) - finish up loose hours
-* Mar Wk 1:  4 hrs (46.6) - Check ride
+* Jan Wk 3:  4 hrs (18.6) - solo time, hood time, finish up night time
+* Jan Wk 4:  10 hrs (28.6) - solo cross country and hood time
+* Jan Wk 5:  6 hrs (34.6) - solo cross country and check ride prep
+* Feb Wk 1:  6 hrs (40.6) - solo cross country and check ride prep
+* Feb Wk 2:  4 hrs (44.6) - check ride
