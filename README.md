@@ -1,7 +1,7 @@
 ## Flight Training Log
 
 * Running Total Ground: 39.0 hrs
-* Running Total Flight: 
+* Running Total Flight:
   * Instruction: 18.3/20 hrs
     * Night Dual Takeoffs and Landings: 10/10
     * Night Dual Cross Country > 100nm: 1/1
@@ -9,23 +9,26 @@
     * Check Ride Prep: 0/3hrs
     * Hood Time: 3/3hrs
     * Cross Country Training: 3.6/3hrs
-  * Solo: 7.1/10 hrs
+  * Solo: 9.4/10 hrs
     * Solo Towered field takeoffs and landings: 3/3
     * Solo Daytime cross country, 3pts, 150nm, one leg > 50nm: 1/1
-    * Solo Cross Country Hours: 2.3/5hrs
-  * **Total**: 25.4/40hrs
+    * Solo Cross Country Hours: 5.1/5hrs
+  * **Total**: 27.7/40hrs
 
   * Remaining
-    * 14.6 hrs total time
-    * 2.7 hrs solo cross country
-    * 2.9 hrs solo time
+    * 12.3 hrs total time
+    * 0.6 hrs solo time
     * 1.7 hrs instruction
     * 3 hrs check ride prep
+    * FAA Written Exam
 
 
 [Ground School Link](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
 
 ### Study & Flight Time
+1/25/19
+* 2.8 hr solo cross country (KSGS to KBRD to KSGS)
+
 1/23/19
 * 2.3 hr solo flight (KSGS to KONA to KLUM to KSGS)
 * 3pt cross country > 150nm with one leg > 50nm
