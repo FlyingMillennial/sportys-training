@@ -30,3 +30,5 @@ Notes from the online test prep tool.
 * Magnetic compass peculiarities when turning - study it!
 
 * Runway numbers are magnetic
+
+* Inform NTSB in 7 days
