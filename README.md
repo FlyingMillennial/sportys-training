@@ -21,6 +21,7 @@
     * 0.8 hrs instruction
     * Check Ride Endorsment
     * FAA Written Exam
+    * Check Ride
 
 
 [Ground School Link](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)

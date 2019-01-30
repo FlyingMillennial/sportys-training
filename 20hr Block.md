@@ -18,3 +18,4 @@ Purchased 20hr block for KSGS Warrior, Archer, and 180 on 12/17/18
 * 01/23/19: Purchase of additional 20 hrs (22.1)
 * 01/23/19: 2.3 (19.8)
 * 01/25/19: 2.8 (17.0)
+* 01/27/19: 0.9 (16.1)
