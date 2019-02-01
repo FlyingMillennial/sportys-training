@@ -1,6 +1,6 @@
 ## Flight Training Log
 
-* Running Total Ground: 39.0 hrs
+* Running Total Ground: 46.0 hrs
 * Running Total Flight:
   * Instruction: 19.2/20 hrs
     * Night Dual Takeoffs and Landings: 10/10
@@ -20,16 +20,28 @@
     * 0.6 hrs solo time
     * 0.8 hrs instruction
     * Check Ride Endorsment
-    * FAA Written Exam
     * Check Ride
 
 
 [Ground School Link](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
 
 ### Study & Flight Time
+1/31/19
+* FAA Written Exam: Passed (92%)
+* 1 hr check ride oral prep - flight planning + weight and balance
+
+1/29/19
+* 1 hr written exam prep (93%)
+* 1 hr check ride oral prep - flight planning + weight and balance
+
+1/28/19
+* 2 hr written exam prep (86% and 91%)
+* Visibility and cloud clearance rules, magnetic compass errors, VORs, category and class distinctions
+
 1/27/19
 * 0.9 hr flight
 * Dual training soft field and short field takeoffs and landings.
+* 2 hr written exam prep (80% and 86%)
 
 1/25/19
 * 2.8 hr solo cross country (KSGS to KBRD to KSGS)
