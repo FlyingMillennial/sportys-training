@@ -29,4 +29,4 @@ Projection
 * Jan Wk 5:  4 hrs (31.7) - check ride prep
 * Feb Wk 1:  4 hrs (35.7) - check ride prep
 * Feb Wk 2:  4 hrs (39.7) - check ride prep
-* Feb Wk 3:  4 hrs (43.7) - check ride prep
+* Feb Wk 3:  4 hrs (43.7) - check ride
