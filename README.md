@@ -20,7 +20,7 @@
     * Cross Country Training: 3.6/3hrs
       * 1/5/19: 2.1
       * 1/9/19: 1.5
-  * Solo: 12.2/10 hrs
+  * Solo: 15/10 hrs
     * Solo Towered field takeoffs and landings: 3/3
       * 1/20/19: 3 @ KSTP
     * Solo Daytime cross country, 3pts, 150nm, one leg > 50nm: 1/1
@@ -28,16 +28,22 @@
     * Solo Cross Country Hours: 5.1/5hrs
       * 1/23/19: 2.3 KSGS -> KONA -> KLUM -> KSGS
       * 1/25/19: 2.8 KSGS -> KBRD -> KSGS
-  * **Total**: 32.9/40hrs
+  * **Total**: 35.7/40hrs
 
   * Remaining
-    * 7.1 hrs total time
+    * 4.3 hrs total time
     * Check Ride
 
 
 [Ground School Link](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
 
 ### Study & Flight Time
+2/9/19
+* 2.8 hr flight (solo, check ride prep)
+* Keep track of the wind!  It will blow you onto the runway, making you too high.
+* On EVERY maneuver, do a clearing turn to the right 90 degrees, then back left 90 degrees.
+* Steep turn mantra: I'm on a heading of 270, I'm going to increase power as I turn left to 45 degrees, and my target rollout is at 310 degrees, where I'll decrease power and roll out.
+
 2/2/19
 * 1.8 hr flight (solo, check ride prep)
 * Need to work on altitude and bank for steep turns
