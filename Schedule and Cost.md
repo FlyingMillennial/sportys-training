@@ -28,6 +28,6 @@
 
 Projection
 
-* Feb Wk 2:  3 hrs (38.7) - check ride prep
-* Feb Wk 3:  3 hrs (41.7) - check ride prep
+* Feb Wk 2:  3 hrs (37.3) - check ride prep
+* Feb Wk 3:  3 hrs (40.3) - check ride prep
 * Feb Wk 3/4 Weekend: Check Ride
