@@ -37,6 +37,9 @@
 [Ground School Link](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
 
 ### Study & Flight Time
+2/28/19
+* 1.5 hr check ride prep
+
 2/19/19
 * 1.0 hr flight
 
