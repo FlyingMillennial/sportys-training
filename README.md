@@ -1,6 +1,6 @@
 ## Flight Training Log
 
-* Running Total Ground: 49.0 hrs
+* Running Total Ground: 60.0 hrs
 * Flight Requirements:
   * Instruction: 20.2/20 hrs
     * Night Dual Takeoffs and Landings: 10/10
@@ -20,7 +20,7 @@
     * Cross Country Training: 3.6/3hrs
       * 1/5/19: 2.1
       * 1/9/19: 1.5
-  * Solo: 21/10 hrs
+  * Solo: 23.9/10 hrs
     * Solo Towered field takeoffs and landings: 3/3
       * 1/20/19: 3 @ KSTP
     * Solo Daytime cross country, 3pts, 150nm, one leg > 50nm: 1/1
@@ -28,17 +28,32 @@
     * Solo Cross Country Hours: 5.1/5hrs
       * 1/23/19: 2.3 KSGS -> KONA -> KLUM -> KSGS
       * 1/25/19: 2.8 KSGS -> KBRD -> KSGS
-  * **Total**: 41.2/40hrs
+  * Check Ride: 1.6 hrs
+  * **Total**: 45.7/40hrs
 
   * Remaining
-    * Check Ride
-
+    * None
 
 [Ground School Link](https://courses2.sportys.com/training/course/rendervideotraining?view=Course%2FvideoTraining.html)
 
 ### Study & Flight Time
+3/7/19
+* 1.6 hr private pilot check ride. Passed.
+* 103 days from start to finish (about 60 hours of study, 45.7 hours of flight)
+
+3/6/19
+* 1.4 hr check ride prep flight
+* 2 hr check ride flight planning and prep
+
+3/5/19
+* 2 hr check ride study
+
+3/4/19
+* 2 hr check ride study
+
 2/28/19
-* 1.5 hr check ride prep
+* 1.5 hr check ride prep flight
+* 2 hr check ride study
 
 2/19/19
 * 1.0 hr flight
